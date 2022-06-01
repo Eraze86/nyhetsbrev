@@ -4,4 +4,5 @@ userName: string;
 passWord: string;
 email: string,
 newsLetter: boolean;
+
 }
